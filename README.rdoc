@@ -1,4 +1,4 @@
-= SixArm > Ruby > RDoc template generator like darkfish, hanna, alison, etc.
+SixArm.com » Ruby » RDoc template generator like darkfish, hanna, alison, etc.
 
 This is an RDoc template that we think is easier, cleaner, and better than the usual RDoc template. This works with RDoc 2.4 and on.
 
