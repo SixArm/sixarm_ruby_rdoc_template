@@ -43,8 +43,3 @@ To use the template all the time, you can set the RDOCOPT environment variable:
 To make RubyGems use the template for gem rdocs, you can add this to your gemrc:
 
     rdoc: --template=sixarm_ruby_rdoc_template
-
-
-## Changes
-
-* 2012-03-14 1.1.4 Update docs, tests
