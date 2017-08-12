@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> RDoc template generator like darkfish, hanna, alison, etc.
+# SixArm.com → Ruby → <br> RDoc template generator like darkfish, hanna, alison, etc.
 
 * Doc: <http://sixarm.com/sixarm_ruby_/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_>
